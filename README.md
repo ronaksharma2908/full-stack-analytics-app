@@ -18,7 +18,7 @@ This project includes a backend API with seeded MongoDB data and a React fronten
 
 ---
 
-### 🖼️ Dashboard Preview
+### 🖼️ **Dashboard Preview**
  -Interactive line chart
 
  -Four colorful curves

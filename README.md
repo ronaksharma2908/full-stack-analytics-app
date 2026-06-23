@@ -19,11 +19,11 @@ This project includes a backend API with seeded MongoDB data and a React fronten
 ---
 
 ### 🖼️ Dashboard Preview
-Interactive line chart
+ -Interactive line chart
 
-Four colorful curves
+ -Four colorful curves
 
-Real‑time metrics tracking
+ -Real‑time metrics tracking
 
 ---
 
